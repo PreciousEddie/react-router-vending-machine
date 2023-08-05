@@ -1,0 +1,14 @@
+#sidebar {
+  padding: 10px;
+  background-color: rgb(30, 143, 218);
+}
+
+.NavBar-NavLink {
+  margin: 10px;
+  padding: 10px;
+}
+
+#sidebar a.active {
+  color: rgb(49, 189, 6);
+  font-weight: bold;
+}
